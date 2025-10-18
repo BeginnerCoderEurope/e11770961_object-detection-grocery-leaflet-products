@@ -20,7 +20,7 @@ The dataset will use at least 10 austrian grocery leaflets collected from Hofer,
 | 4       | Building an Application         | 6h             |
 | 5       | Writing Final Report            | 3h             |
 | 6       | Preparing Presentation          | 3h             |
-| 7       | Total Estimated Time            | ~59h           |
+| 7       | Total Estimated Time            | ~57h           |
 
 
 # Relevant papers 
