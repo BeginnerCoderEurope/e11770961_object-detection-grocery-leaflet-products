@@ -2,13 +2,13 @@ e11770961_object-detection-of-products-in-grocery-leaflets
 
 # Project description
 
-Grocery leaflets contain a diverse mix of visual and textual elements, which are often connected in a semi-structured way. This can be observed in the different placements of product prices and their corresponding descriptions.
+Grocery leaflets contain a diverse mix of visual and textual elements, often connected in a semi-structured manner. This can be observed in the different placements of product prices and their corresponding descriptions.
 
-For the Applied Deep Learning project I intend to retrieve matching product informations from each product per grocery leaflet page by using an object-detection model. The model should create a bounding box around the related product prices and names. For this I will <strong>bring my own data</strong> and fine-tuning an existing object-detection model. 
+For the Applied Deep Learning project, I intend to retrieve matching product information from each product per grocery leaflet page by using an object-detection model. The model should create a bounding box around the related product prices and names. For this, I will <strong>bring my own data</strong> and fine-tune an existing object-detection model. 
 
 # Dataset description 
 
-The dataset will use at least 10 austrian grocery leaflets collected from Hofer, Billa, Penny and Spar. An annotation guideline will be created for consistency purposes. This will take into account the creation of bounding boxes (inclusions and/or exclusions of items) and image formats for the specific object-detection model that will used.  
+The dataset will use at least 10 Austrian grocery leaflets collected from Hofer, Billa, Penny, and Spar. An annotation guideline will be created for consistency purposes. This will take into account the creation of bounding boxes (inclusion and/or exclusion of items) and image formats for the specific object-detection model that will be used.  
 
 
 # Work Breakdown Structure
